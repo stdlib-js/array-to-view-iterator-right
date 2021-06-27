@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-to-view-iterator-right",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create an iterator from an array-like object view, iterating from right to left.",
   "license": "Apache-2.0",
   "author": {
